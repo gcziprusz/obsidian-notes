@@ -20,3 +20,9 @@ After reviewing the notes so far ([https://nashvillesoftware.slack.com/canvas/D0
     - Provide additional context about `json-server`:
         - Explain that it’s a teaching tool designed to quickly provide an API.
         - clarify that mastery of `json-server` is not an objective
+
+[[1 Fox y Dog Notes]]
+[[2 Indiana Jeans Notes]]
+[[3 Kneel Diamonds Notes]]
+[[4 Car Builder Notes]]
+[[5 Self Assessment]]
