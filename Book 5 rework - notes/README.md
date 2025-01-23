@@ -22,12 +22,12 @@ After reviewing the notes so far ([https://nashvillesoftware.slack.com/canvas/D0
         - clarify that mastery of `json-server` is not an objective
 
 
-[1 Fox y Dog Notes](https://github.com/gcziprusz/obsidian-notes/tree/main/Book%205%20rework%20-%20notes/1 Fox y Dog Notes.md)
+https://github.com/gcziprusz/obsidian-notes/blob/main/Book%205%20rework%20-%20notes/1%20Fox%20y%20Dog%20Notes.md
 
-[2 Indiana Jeans Notes](https://github.com/gcziprusz/obsidian-notes/tree/main/Book%205%20rework%20-%20notes/2 Indiana Jeans Notes.md)
+https://github.com/gcziprusz/obsidian-notes/blob/main/Book%205%20rework%20-%20notes/2%20Indiana%20Jeans%20Notes.md
 
-[3 Kneel Diamonds Notes](https://github.com/gcziprusz/obsidian-notes/tree/main/Book%205%20rework%20-%20notes/3 Kneel Diamonds Notes.md)
+https://github.com/gcziprusz/obsidian-notes/blob/main/Book%205%20rework%20-%20notes/3%20Kneel%20Diamonds%20Notes.md
 
-[4 Car Builder Notes](.https://github.com/gcziprusz/obsidian-notes/tree/main/Book%205%20rework%20-%20notes4 Car Builder Notes.md)
+https://github.com/gcziprusz/obsidian-notes/blob/main/Book%205%20rework%20-%20notes/4%20Car%20Builder%20Notes.md
 
-[5 Self Assessment](https://github.com/gcziprusz/obsidian-notes/tree/main/Book%205%20rework%20-%20notes/5 Self Assessment.md)
+https://github.com/gcziprusz/obsidian-notes/blob/main/Book%205%20rework%20-%20notes/5%20Self%20Assessment.md
