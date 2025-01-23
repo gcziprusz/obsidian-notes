@@ -21,8 +21,10 @@ After reviewing the notes so far ([https://nashvillesoftware.slack.com/canvas/D0
         - Explain that it’s a teaching tool designed to quickly provide an API.
         - clarify that mastery of `json-server` is not an objective
 
-[[1 Fox y Dog Notes]]
-[[2 Indiana Jeans Notes]]
-[[3 Kneel Diamonds Notes]]
-[[4 Car Builder Notes]]
-[[5 Self Assessment]]
+
+
+[1 Fox y Dog Notes](./1 Fox y Dog Notes.md)
+[2 Indiana Jeans Notes](./2 Indiana Jeans Notes.md)
+[3 Kneel Diamonds Notes](./3 Kneel Diamonds Notes.md)
+[4 Car Builder Notes](./4 Car Builder Notes.md)
+[5 Self Assessment](./5 Self Assessment.md)
