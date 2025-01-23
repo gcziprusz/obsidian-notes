@@ -22,9 +22,12 @@ After reviewing the notes so far ([https://nashvillesoftware.slack.com/canvas/D0
         - clarify that mastery of `json-server` is not an objective
 
 
+[1 Fox y Dog Notes](https://github.com/gcziprusz/obsidian-notes/tree/main/Book%205%20rework%20-%20notes/1 Fox y Dog Notes.md)
 
-[1 Fox y Dog Notes](./1 Fox y Dog Notes.md)
-[2 Indiana Jeans Notes](./2 Indiana Jeans Notes.md)
-[3 Kneel Diamonds Notes](./3 Kneel Diamonds Notes.md)
-[4 Car Builder Notes](./4 Car Builder Notes.md)
-[5 Self Assessment](./5 Self Assessment.md)
+[2 Indiana Jeans Notes](https://github.com/gcziprusz/obsidian-notes/tree/main/Book%205%20rework%20-%20notes/2 Indiana Jeans Notes.md)
+
+[3 Kneel Diamonds Notes](https://github.com/gcziprusz/obsidian-notes/tree/main/Book%205%20rework%20-%20notes/3 Kneel Diamonds Notes.md)
+
+[4 Car Builder Notes](.https://github.com/gcziprusz/obsidian-notes/tree/main/Book%205%20rework%20-%20notes4 Car Builder Notes.md)
+
+[5 Self Assessment](https://github.com/gcziprusz/obsidian-notes/tree/main/Book%205%20rework%20-%20notes/5 Self Assessment.md)
