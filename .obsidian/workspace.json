@@ -97,16 +97,124 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Book 5 rework - notes/README.md",
+                "file": "Book 5 rework - notes/4 Car Builder Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "4 Car Builder Notes"
+            }
+          },
+          {
+            "id": "9c9d55ca8aeb6675",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IDEAS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IDEAS"
+            }
+          },
+          {
+            "id": "97b091e2aedbe2f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "shallow_deep_copy/Workshop.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Workshop"
+            }
+          },
+          {
+            "id": "a261b79f3003bba3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
+          },
+          {
+            "id": "7ea80153038bb2b2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
+          },
+          {
+            "id": "b1e1e01fb1586075",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Continuing ED NSS/DS&A/Course Plan for Data Structures and Algorithms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Course Plan for Data Structures and Algorithms"
+            }
+          },
+          {
+            "id": "ee32e2c66fc9378b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Continuing ED NSS/DS&A/Course Plan for Data Structures and Algorithms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Course Plan for Data Structures and Algorithms"
+            }
+          },
+          {
+            "id": "bca924ab32a98964",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Continuing ED NSS/DS&A/Course Plan for Data Structures and Algorithms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Course Plan for Data Structures and Algorithms"
+            }
+          },
+          {
+            "id": "a145d83a45ccb5d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Continuing ED NSS/DS&A/Course Plan for Data Structures and Algorithms.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Course Plan for Data Structures and Algorithms"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -125,7 +233,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -248,21 +357,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "588649bda3b81f0d",
+  "active": "a145d83a45ccb5d2",
   "lastOpenFiles": [
+    "Continuing ED NSS/DS&A/Working DOC.md",
+    "Continuing ED NSS/DS&A/Course Plan for Data Structures and Algorithms.md",
+    "Continuing ED NSS/DS&A/Ideas.md",
+    "Continuing ED NSS/DS&A/TODOS.md",
+    "Continuing ED NSS/DS&A/Student input.md",
+    "IDEAS.md",
+    "Monoliths or Microservices - workshop/Pets or Cattle aka Monoliths or Microservices?.md",
+    "Continuing ED NSS/DS&A",
+    "Continuing ED NSS",
+    "shallow_deep_copy/Workshop.md",
+    "shallow_deep_copy",
+    "Book 5 rework - notes/4 Car Builder Notes.md",
+    "UX talk",
+    "Book 5 rework - notes/3 Kneel Diamonds Notes.md",
+    "Book 5 rework - notes/2 Indiana Jeans Notes.md",
     "Book 5 rework - notes/1 Fox y Dog Notes.md",
+    "Book 5 rework - notes/5 Self Assessment.md",
     "Book 5 rework - notes/README.md",
     "Monoliths or Microservices - workshop/Pets or Cattle aka Monoliths or Microservices?.pdf",
     "Monoliths or Microservices - workshop/pets_or_cattle.pdf",
-    "Monoliths or Microservices - workshop/Pets or Cattle aka Monoliths or Microservices?.md",
     "Monoliths or Microservices - workshop/ms 1.webp",
     "Monoliths or Microservices - workshop",
     "Untitled.canvas",
     "Monoliths or Microservices - workshop/DALL·E 2024-11-20 13.13.28 - A whimsical and imaginative depiction of a playful battle between pets and cows. Show a group of pets, including a dog, cat, and parrot, wearing fun, .webp",
-    "Book 5 rework - notes/2 Indiana Jeans Notes.md",
-    "Book 5 rework - notes/4 Car Builder Notes.md",
-    "Book 5 rework - notes/5 Self Assessment.md",
-    "Book 5 rework - notes/3 Kneel Diamonds Notes.md",
     "Book 5 rework - notes",
     "ms.webp",
     "Welcome.md"

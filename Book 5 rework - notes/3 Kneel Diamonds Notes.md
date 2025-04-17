@@ -10,7 +10,7 @@
     - A detailed explanation of how `map` works.
     - Side by side equivalent 'for loop' and 'map' code ?
     - Highlight that `map` always returns a new array.
-- I think we should include the forEach method because it is the closest equivalent to for loops they aleady know and seems like a good immediate step to .map etc.
+- I think we should include the `forEach` method because it is the closest equivalent to for loops they already know and seems like a good immediate step to .map etc.
 ### [Storing User Choices](https://github.com/nashville-software-school/client-side-mastery/blob/master/book-5-kneel-diamonds/chapters/KD_CHANGE_EVENTS.md#storing-user-choices)
 
 - **Transient State**: Add a section explaining transient state:
