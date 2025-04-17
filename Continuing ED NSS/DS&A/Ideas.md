@@ -1,4 +1,7 @@
-
+- do we want to add memoization as a separate topic 
+- model a technical interview Val & Gabe?
+- do we want to have memoization as part of one of the map /set problems? 
+- is memoization important to get a job?
 - https://bigfrontend.dev/ has very nice real wold challenged to practice leetcode style things 
 - 
 - Start sync session with a quiz on relevant to that weeks self study 

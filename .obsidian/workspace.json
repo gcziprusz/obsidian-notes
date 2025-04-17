@@ -205,12 +205,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Continuing ED NSS/DS&A/Course Plan for Data Structures and Algorithms.md",
+                "file": "Continuing ED NSS/DS&A/Ideas.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Course Plan for Data Structures and Algorithms"
+              "title": "Ideas"
             }
           }
         ],
@@ -359,9 +359,9 @@
   },
   "active": "a145d83a45ccb5d2",
   "lastOpenFiles": [
-    "Continuing ED NSS/DS&A/Working DOC.md",
     "Continuing ED NSS/DS&A/Course Plan for Data Structures and Algorithms.md",
     "Continuing ED NSS/DS&A/Ideas.md",
+    "Continuing ED NSS/DS&A/Working DOC.md",
     "Continuing ED NSS/DS&A/TODOS.md",
     "Continuing ED NSS/DS&A/Student input.md",
     "IDEAS.md",
