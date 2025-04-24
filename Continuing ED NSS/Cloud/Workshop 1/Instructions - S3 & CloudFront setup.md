@@ -70,7 +70,8 @@ http://pet-adoption-frontend-origin.s3-website-us-east-2.amazonaws.com
 > Continue following the steps below to learn the **correct way to access your site** through CloudFront, and refer to the table at the bottom of to understand **why using the S3 URL directly is not recommended**.
 
 ✅ Open this URL in your browser — your site should load!
-![[petcare.png]]
+
+![screenshot](./petcare.png)
 
 
 
