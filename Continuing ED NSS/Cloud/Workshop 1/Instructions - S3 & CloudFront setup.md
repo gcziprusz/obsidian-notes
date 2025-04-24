@@ -46,7 +46,7 @@ Go to the **Permissions** tab → **Bucket policy** → Click **Edit**, then pas
 
 1. Click **Save changes**
 
-### 🔹 4. **Upload Your Static files from ( `dist/`)**
+### 🔹 4. **Upload Your Static files**
 
 1. Go to the **Objects** tab
     
@@ -69,10 +69,8 @@ http://pet-adoption-frontend-origin.s3-website-us-east-2.amazonaws.com
 > 
 > Continue following the steps below to learn the **correct way to access your site** through CloudFront, and refer to the table at the bottom of to understand **why using the S3 URL directly is not recommended**.
 
-✅ Open this URL in your browser — your site should load!
-
-![screenshot](./petcare.png)
-
+✅ Open this URL in your browser — your should see:
+![empty](./petcare.png)
 
 
 ---
@@ -117,7 +115,7 @@ Visit your CloudFront URL listed under the General / Details /  Distribution dom
 ✅ Your site will now be globally cached and securely served over HTTPS \o/
 
 This is the proper emotion you should feel at this point: 
-![celebration][https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTVoNnhoYmlxZDRjbTNpMnVkN2NiZnU4aXJwNnYwb2dqd3ZqOTJlYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lMameLIF8voLu8HxWV/giphy.gif]
+![celebration](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTVoNnhoYmlxZDRjbTNpMnVkN2NiZnU4aXJwNnYwb2dqd3ZqOTJlYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lMameLIF8voLu8HxWV/giphy.gif)
 
 ## ❓ Why Access the Site via CloudFront and Not S3 Directly
 
