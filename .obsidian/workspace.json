@@ -205,16 +205,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Continuing ED NSS/DS&A/Ideas.md",
+                "file": "Continuing ED NSS/DS&A/Working DOC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ideas"
+              "title": "Working DOC"
+            }
+          },
+          {
+            "id": "60b919450579dacb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Continuing ED NSS/Cloud/AWS Account Setup Options for a Multi‑Participant Cloud Course.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AWS Account Setup Options for a Multi‑Participant Cloud Course"
+            }
+          },
+          {
+            "id": "7635806ae84c8683",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "deploy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "deploy"
+            }
+          },
+          {
+            "id": "78f83c4cdc974000",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Continuing ED NSS/Cloud/Workshop 1/Instructions - S3 & CloudFront setup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Instructions - S3 & CloudFront setup"
+            }
+          },
+          {
+            "id": "8eb0997684639ae6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Continuing ED NSS/Cloud/Workshop 1/Instructions - S3 & CloudFront setup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Instructions - S3 & CloudFront setup"
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -357,13 +413,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a145d83a45ccb5d2",
+  "active": "16e3bb72dfbdea2a",
   "lastOpenFiles": [
+    "Continuing ED NSS/Cloud/Workshop 1/Instructions - manual site upload.md",
+    "Continuing ED NSS/Cloud/Workshop 1/petcare.png.png",
+    "deploy.md",
+    "Continuing ED NSS/Cloud/Workshop 1/Instructions - S3 & CloudFront setup.md",
+    "Continuing ED NSS/Cloud/Workshop 1",
+    "Continuing ED NSS/Cloud/AWS Account Setup Options for a Multi‑Participant Cloud Course.md",
+    "Continuing ED NSS/DS&A/Working DOC.md",
+    "Continuing ED NSS/Cloud",
     "Continuing ED NSS/DS&A/Course Plan for Data Structures and Algorithms.md",
     "Continuing ED NSS/DS&A/Ideas.md",
-    "Continuing ED NSS/DS&A/Working DOC.md",
-    "Continuing ED NSS/DS&A/TODOS.md",
     "Continuing ED NSS/DS&A/Student input.md",
+    "Continuing ED NSS/DS&A/TODOS.md",
     "IDEAS.md",
     "Monoliths or Microservices - workshop/Pets or Cattle aka Monoliths or Microservices?.md",
     "Continuing ED NSS/DS&A",
