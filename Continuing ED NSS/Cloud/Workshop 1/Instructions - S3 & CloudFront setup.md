@@ -48,14 +48,7 @@ Go to the **Permissions** tab → **Bucket policy** → Click **Edit**, then pas
 
 ### 🔹 4. **Upload Your Static files**
 
-1. Go to the **Objects** tab
-    
-2. Click **Upload**
-    
-3. Upload everything from your `dist/` or `build/` folder
-    
-4. Click **Upload**
-    
+Follow these [[Instructions - site build]] to build and upload your site then resume here!
 
 ### 🔹 5. **Test Your Website**
 
@@ -70,8 +63,12 @@ http://pet-adoption-frontend-origin.s3-website-us-east-2.amazonaws.com
 > Continue following the steps below to learn the **correct way to access your site** through CloudFront, and refer to the table at the bottom of to understand **why using the S3 URL directly is not recommended**.
 
 ✅ Open this URL in your browser — your should see:
-![empty](./petcare.png)
+![pets](./petcare.png)
 
+
+If you instead see a 404 page below, you likely didn't build and upload your static site correctly, talk to the instructor!
+
+![empty](empty.png)
 
 ---
 
