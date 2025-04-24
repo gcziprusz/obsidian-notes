@@ -41,7 +41,8 @@ Go to the **Permissions** tab → **Bucket policy** → Click **Edit**, then pas
       "Resource": "arn:aws:s3:::pet-adoption-frontend-origin/*"
     }
   ]
-}```
+}
+```
 
 1. Click **Save changes**
 
