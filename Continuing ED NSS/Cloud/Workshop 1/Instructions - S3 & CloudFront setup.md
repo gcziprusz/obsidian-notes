@@ -115,6 +115,7 @@ Visit your CloudFront URL listed under the General / Details /  Distribution dom
 ✅ Your site will now be globally cached and securely served over HTTPS \o/
 
 This is the proper emotion you should feel at this point: 
+
 ![celebration](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTVoNnhoYmlxZDRjbTNpMnVkN2NiZnU4aXJwNnYwb2dqd3ZqOTJlYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lMameLIF8voLu8HxWV/giphy.gif)
 
 ## ❓ Why Access the Site via CloudFront and Not S3 Directly
