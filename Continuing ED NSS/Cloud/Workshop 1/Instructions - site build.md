@@ -15,4 +15,4 @@ This creates an `out/` folder containing only static assets.
 
 ## ✅ Step 2: Deploy the `out/` Folder
 
-You can now deploy the `out/` folders contents to any static host including AWS S3!
+You can now deploy the `out/` folders contents to any static host including AWS S3

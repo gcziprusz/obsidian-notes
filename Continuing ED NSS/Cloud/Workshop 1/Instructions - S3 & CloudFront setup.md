@@ -48,7 +48,7 @@ Go to the **Permissions** tab → **Bucket policy** → Click **Edit**, then pas
 
 ### 🔹 4. **Upload Your Static files**
 
-Follow these [[Instructions - site build]] to build and upload your site then resume here!
+Follow these [Instructions - site build](https://github.com/gcziprusz/obsidian-notes/blob/main/Continuing%20ED%20NSS/Cloud/Workshop%201/Instructions%20-%20site%20build.md) to build and upload your site then resume here!
 
 ### 🔹 5. **Test Your Website**
 
