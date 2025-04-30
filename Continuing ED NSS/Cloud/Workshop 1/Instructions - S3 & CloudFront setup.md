@@ -8,7 +8,7 @@
 1. Go to the S3 console: [https://s3.console.aws.amazon.com/s3](https://s3.console.aws.amazon.com/s3)
 2. Click **Create bucket**
 3. Set:
-   - **Bucket name**: `pet-adoption-frontend-origin`
+   - **Bucket name**: `rock-of-ages-frontend-origin`
    - **Region**: `us-east-2` (Ohio)
 4. ⚠️ **Uncheck**: "Block all public access"
    - Acknowledge the warning
@@ -38,7 +38,7 @@ Go to the **Permissions** tab → **Bucket policy** → Click **Edit**, then pas
       "Effect": "Allow",
       "Principal": "*",
       "Action": "s3:GetObject",
-      "Resource": "arn:aws:s3:::pet-adoption-frontend-origin/*"
+      "Resource": "arn:aws:s3:::rock-of-ages-frontend-origin/*"
     }
   ]
 }
@@ -54,17 +54,13 @@ Follow these [Instructions - site build](https://github.com/gcziprusz/obsidian-n
 
 From the **Properties** tab, scroll to **Static website hosting** and copy the URL:
 
-```
-http://pet-adoption-frontend-origin.s3-website-us-east-2.amazonaws.com
-```
+```https://rock-of-ages-frontend-origin.s3.us-east-2.amazonaws.com/index.html```
 
-> This URL http://pet-adoption-frontend-origin.s3-website-us-east-2.amazonaws.com  is for **testing purposes only**. Please do **not bookmark, use, or share** this S3 URL.  It’s simply the raw link to your S3-hosted site.
+> The above URL  is for **testing purposes only**. Please do **not bookmark, use, or share** this S3 URL.  It’s simply the raw link to your S3-hosted site.
 > 
 > Continue following the steps below to learn the **correct way to access your site** through CloudFront, and refer to the table at the bottom of to understand **why using the S3 URL directly is not recommended**.
 
-✅ Open this URL in your browser — your should see:
-![pets](./petcare.png)
-
+✅ Open the above URL in your browser — your should see a **blank white page** with no errors in the console.
 
 If you instead see a 404 page below, you likely didn't build and upload your static site correctly, talk to the instructor!
 
@@ -80,34 +76,38 @@ If you instead see a 404 page below, you likely didn't build and upload your sta
 - Click **Create Distribution**
 ### 🔹 2. Configure the Origin
 
-- **Origin domain**: Select your S3 bucket. Make sure to pick the one **ending in `.s3-website-us-east-2.amazonaws.com`** if you're using S3 static website hosting mode.
-- **Origin access control settings**: 
-  - Your bucket is public, **no OAC is needed**
+- Select **Single website or app** 
+- **Origin domain**: Type `rock-of-ages-frontend-origin.s3-website.us-east-2.amazonaws.com` 
+- A yellow warning box should appear below , click the > **Use website endpoint** button
+-  Select protocol **HTTP only**
+- Make sure Enable Origin Shield is set to **No**
 
 ### 🔹 3. Set Default Behavior
 
-- **Viewer Protocol Policy**: `Redirect HTTP to HTTPS`
+- **Viewer Protocol Policy**: ` HTTP and HTTPS`
 - **Allowed HTTP Methods**: `GET, HEAD`
 - **Cache Policy**: Leave as `CachingOptimized` 
 - **Compress objects automatically**: ✅ Yes
 
-### 🔹 4. Configure Distribution Settings
+### 🔹 4. ## Web Application Firewall (WAF)
+- Do not enable security protections
+### 🔹 5. Configure Distribution Settings
 
 - **Price Class**: Choose based on geographic reach (e.g., `Use Only US, Canada and Europe` to reduce cost)
 - **Alternate domain name (CNAME)**: Leave blank
-- **SSL certificate**: Use default CloudFront SSL unless adding your own domain
+- **SSL certificate**: Use default CloudFront SSL
 
 Click **Create Distribution**
 
-### 🔹 5. Wait for Distribution to Deploy
+### 🔹 6. Wait for Distribution to Deploy
 
 - Takes ~5–15 minutes
-- You'll get a **Domain Name** like: https://d1swjy5r23w5qr.cloudfront.net
+- You'll get a **Domain Name** like: https://dsjkhfsdjkfhdsk.cloudfront.net
 
-### 🔹 6. Access Your Site via CloudFront
+### 🔹 7. Access Your Site via CloudFront
 
 Visit your CloudFront URL listed under the General / Details /  Distribution domain name like:
-	https://d1swjy5r23w5qr.cloudfront.net
+	https://dsjkhfsdjkfhdsk.cloudfront.net
 
 ✅ Your site will now be globally cached and securely served over HTTPS \o/
 
