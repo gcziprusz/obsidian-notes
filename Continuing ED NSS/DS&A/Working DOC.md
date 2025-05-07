@@ -9,12 +9,10 @@ topics to discuss figure out cover
 ## Instructor(s)
 - TBD
 ## Time Budget
-- TBD
+- 10 hours weekly 
 ## Language Used
 - TBD (Javascript,Java,Python)
 	- Leaning towards Javascript since it would allow us to leverage Learning Platform site and pretty widely used 
-	
-
 ## Pedagogy
 - faded examples 
 	- I do, we do, you do
@@ -31,8 +29,6 @@ topics to discuss figure out cover
 		- send the coding question they will ask , they are expected to know it enough to guide partner 
 			- create a pramp session to code together
 			- feedback submitted to school both on interviewer , interviewee
-			- 
-	
 ## References
 
 [NSS Algorithm solving guide](https://docs.google.com/presentation/d/14zhKdV-h-QUVFW-D-g91xJkdM6fr_F7KKSAaXaOyqhY/edit?usp=sharing)

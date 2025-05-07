@@ -4,109 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "2909fec785d27346",
+        "id": "0af4f4e54a2f4a72",
         "type": "tabs",
         "children": [
           {
-            "id": "fe5ef04549e928c2",
+            "id": "35111aa675e49951",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pets or Cattle aka Monoliths or Microservices?.md",
+                "file": "Continuing ED NSS/Cloud/Workshop 1/Instructions - S3 & CloudFront setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pets or Cattle aka Monoliths or Microservices?"
+              "title": "Instructions - S3 & CloudFront setup"
             }
           },
           {
-            "id": "7fddb5fd9da26e59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Book 5 rework/Fox y Dog Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fox y Dog Notes"
-            }
-          },
-          {
-            "id": "e406fdc35a83995d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Book 5 rework/Indiana Jeans Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Indiana Jeans Notes"
-            }
-          },
-          {
-            "id": "8fa2fd7fb4bb8cd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Book 5 rework/Kneel Diamonds Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kneel Diamonds Notes"
-            }
-          },
-          {
-            "id": "227f05ae7a7870eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Book 5 rework/Fox y Dog Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fox y Dog Notes"
-            }
-          },
-          {
-            "id": "dd1db6c30bd9b831",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Book 5 rework - notes/4 Car Builder Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4 Car Builder Notes"
-            }
-          },
-          {
-            "id": "588649bda3b81f0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Book 5 rework - notes/4 Car Builder Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4 Car Builder Notes"
-            }
-          },
-          {
-            "id": "9c9d55ca8aeb6675",
+            "id": "b694d1ec93e90fdc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -120,157 +36,19 @@
             }
           },
           {
-            "id": "97b091e2aedbe2f8",
+            "id": "7c7d6fcf6eb119df",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "shallow_deep_copy/Workshop.md",
-                "mode": "source",
-                "source": false
+                "file": "Continuing ED NSS/Cloud/Workshop 1/empty.png"
               },
-              "icon": "lucide-file",
-              "title": "Workshop"
-            }
-          },
-          {
-            "id": "a261b79f3003bba3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
-            }
-          },
-          {
-            "id": "7ea80153038bb2b2",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
-            }
-          },
-          {
-            "id": "b1e1e01fb1586075",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Continuing ED NSS/DS&A/Course Plan for Data Structures and Algorithms.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Course Plan for Data Structures and Algorithms"
-            }
-          },
-          {
-            "id": "ee32e2c66fc9378b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Continuing ED NSS/DS&A/Course Plan for Data Structures and Algorithms.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Course Plan for Data Structures and Algorithms"
-            }
-          },
-          {
-            "id": "bca924ab32a98964",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Continuing ED NSS/DS&A/Course Plan for Data Structures and Algorithms.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Course Plan for Data Structures and Algorithms"
-            }
-          },
-          {
-            "id": "a145d83a45ccb5d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Continuing ED NSS/DS&A/Working DOC.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Working DOC"
-            }
-          },
-          {
-            "id": "60b919450579dacb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Continuing ED NSS/Cloud/AWS Account Setup Options for a Multi‑Participant Cloud Course.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AWS Account Setup Options for a Multi‑Participant Cloud Course"
-            }
-          },
-          {
-            "id": "7635806ae84c8683",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "deploy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "deploy"
-            }
-          },
-          {
-            "id": "78f83c4cdc974000",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Continuing ED NSS/Cloud/Workshop 1/Instructions - S3 & CloudFront setup.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Instructions - S3 & CloudFront setup"
-            }
-          },
-          {
-            "id": "8eb0997684639ae6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Continuing ED NSS/Cloud/Workshop 1/Instructions - S3 & CloudFront setup.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Instructions - S3 & CloudFront setup"
+              "icon": "lucide-image",
+              "title": "empty"
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -302,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "docker build",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -389,10 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pets or Cattle aka Monoliths or Microservices?.md"
+                "file": "IDEAS.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pets or Cattle aka Monoliths or Microservices?"
+              "title": "Outline of IDEAS"
             }
           }
         ],
@@ -413,29 +194,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8eb0997684639ae6",
+  "active": "b694d1ec93e90fdc",
   "lastOpenFiles": [
-    "Continuing ED NSS/Cloud/Workshop 1/Instructions - site build.md",
-    "Continuing ED NSS/Cloud/Workshop 1/Instructions - S3 & CloudFront setup.md",
-    "Continuing ED NSS/Cloud/Workshop 1/petcare.png",
-    "Continuing ED NSS/Cloud/Workshop 1/petcare.png",
-    "Continuing ED NSS/Cloud/Workshop 1/empty.png",
-    "deploy.md",
-    "Continuing ED NSS/Cloud/Workshop 1",
-    "Continuing ED NSS/Cloud/AWS Account Setup Options for a Multi‑Participant Cloud Course.md",
-    "Continuing ED NSS/DS&A/Working DOC.md",
-    "Continuing ED NSS/Cloud",
+    "Continuing ED NSS/DS&A/Content generation prompt.md",
     "Continuing ED NSS/DS&A/Course Plan for Data Structures and Algorithms.md",
     "Continuing ED NSS/DS&A/Ideas.md",
+    "Continuing ED NSS/DS&A/Module 1.md",
     "Continuing ED NSS/DS&A/Student input.md",
     "Continuing ED NSS/DS&A/TODOS.md",
+    "Continuing ED NSS/DS&A/Working DOC.md",
+    "Continuing ED NSS/Cloud/Deploy of the API.md",
+    "Continuing ED NSS/Cloud/Workshop 1/Instructions - S3 & CloudFront setup.md",
+    "Continuing ED NSS/Cloud/Workshop 1/empty.png",
+    "Continuing ED NSS/Cloud/Workshop 1/petcare.png",
+    "Continuing ED NSS/Cloud/Workshop 1/Instructions - site build.md",
+    "Continuing ED NSS/Cloud/Deploy Working doc.md",
+    "Course Plan for Data Structures and Algorithms.pdf",
     "IDEAS.md",
+    "Continuing ED NSS/Cloud/AWS Account Setup Options for a Multi‑Participant Cloud Course.md",
+    "shallow_deep_copy/Workshop.md",
+    "Book 5 rework - notes/4 Car Builder Notes.md",
+    "Continuing ED NSS/Cloud/Workshop 1",
+    "Continuing ED NSS/Cloud",
     "Monoliths or Microservices - workshop/Pets or Cattle aka Monoliths or Microservices?.md",
     "Continuing ED NSS/DS&A",
     "Continuing ED NSS",
-    "shallow_deep_copy/Workshop.md",
     "shallow_deep_copy",
-    "Book 5 rework - notes/4 Car Builder Notes.md",
     "UX talk",
     "Book 5 rework - notes/3 Kneel Diamonds Notes.md",
     "Book 5 rework - notes/2 Indiana Jeans Notes.md",
@@ -448,7 +232,6 @@
     "Monoliths or Microservices - workshop",
     "Untitled.canvas",
     "Monoliths or Microservices - workshop/DALL·E 2024-11-20 13.13.28 - A whimsical and imaginative depiction of a playful battle between pets and cows. Show a group of pets, including a dog, cat, and parrot, wearing fun, .webp",
-    "Book 5 rework - notes",
     "ms.webp",
     "Welcome.md"
   ]

@@ -6,15 +6,15 @@
 - Start sync session with a quiz on relevant to that weeks self study 
 - pattern recognition quizzes 
 - concept quizzes
-- use the foundations course platforms for this course
+- clever intro to recursion
+	- https://www.online-python.com/7Lxtb9l8yv
 - Need to find and incorporate ideas from the interview prep presentation (rules template to solving)
 - Use the foundamentals course platform to deliver? (Coach says to fork , I'd like to see a single unified platform !)
 - neetcode https://www.linkedin.com/posts/navdeep-singh-3aaa14161_if-i-only-had-a-short-time-to-study-for-my-activity-7312473774598012928-ZhXz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAALK6HQBY_kilFd-pKEgik6VbNc08aoIMNw
 - ask students to create a free account > 
 	- https://www.tryexponent.com/ (formely pramp)
-		- allows 5 practice session with peers 
+		- 5 peer mocks per month
 		- allows practice with friend(provides the platform no question)
-		- 
 
 
 ## Synchronous(Zoom) Time _Should_ Feel Like:
